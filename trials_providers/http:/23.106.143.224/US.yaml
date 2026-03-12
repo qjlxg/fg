@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国01 -   友善, server: vudh2.jsk.hpv01.top, port: 27575, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

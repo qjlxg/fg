@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国 V2ray(1)-1 - greatdeal, server: us-1.netflixssr.com, port: 154, type: vmess, uuid: 09adb945-812e-3f09-9a3e-0bece6d2798e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/stream, headers: {Host: us-1.netflixssr.com}}, udp: true}

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 【注意】请每天更新订阅以保证稳定的连接！ - greatdeal, server: 请每天更新订阅以保证稳定的连接！, port: 443, type: vmess, uuid: 09adb945-812e-3f09-9a3e-0bece6d2798e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 【注意】请SSR用户尽快更换为V2ray网站首页有教程！ - greatdeal, server: 【注意】请SSR用户尽快更换为V2ray网站首页有教程！, port: 543, type: ssr, cipher: aes-256-cfb, password: !<str> 543, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 7735:kOT7FM, obfs-param: 624bc7735.wns.windows.com, udp: true}

@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国 - 快捷VPN, server: 107.161.92.142, port: 663, type: vmess, uuid: 7ac7c2c5-51d9-4e69-b883-25c3ae7e96c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

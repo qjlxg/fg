@@ -1,0 +1,20 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 A台湾01 -   友善, server: ssrrsd.kozow.com, port: 21518, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A香港01 -   友善, server: hkt01.1.frtghtcf.top, port: 36920, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A香港02 -   友善, server: hkt01.1.frtghtcf.top, port: 36921, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A香港03 -   友善, server: hkt01.1.frtghtcf.top, port: 36922, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 A香港04 -   友善, server: hkt01.1.frtghtcf.top, port: 36923, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 -   友善, server: 09.fgwqq.top, port: 27575, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 -   友善, server: hkt01.1.frtghtcf.top, port: 36925, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 -   友善, server: hkt01.1.frtghtcf.top, port: 36924, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 -   友善, server: hkt01.1.frtghtcf.top, port: 36926, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 -   友善, server: 14.fgwqq.top, port: 27575, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 -   友善, server: vudh2.jsk.hpv01.top, port: 27575, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 -   友善, server: hkt01.1.frtghtcf.top, port: 36927, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 -   友善, server: hkt01.1.frtghtcf.top, port: 36928, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 马来西亚 -   友善, server: hkt01.1.frtghtcf.top, port: 36929, type: vmess, uuid: abcabf3c-0e23-384f-bcf2-535b331ef1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ aaa网址 http://01.fsgyaa1.xyz/ -   友善, server: bgp2.hpv01.top, port: 10203, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 25886:hSRbiy, obfs-param: d8077, udp: true}
+- {name: ℹ️ aaa网址 https://fsgyaa4.xyz/ -   友善, server: bgp2.hpv01.top, port: 10203, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 25886:hSRbiy, obfs-param: d8077, udp: true}
+- {name: ℹ️ 请购买套餐使用 -   友善, server: bgp2.hpv01.top, port: 10203, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 25886:hSRbiy, obfs-param: d8077, udp: true}

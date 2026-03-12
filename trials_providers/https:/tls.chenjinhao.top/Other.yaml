@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: trojan - TTEESSTT, server: xrayr.chenjinhao.top, port: 3333, type: trojan, password: 42c293b1-9541-40c5-8be1-a62191bb778b, sni: xrayr.chenjinhao.top, skip-cert-verify: true, udp: true}
+- {name: ss - TTEESSTT, server: xrayr.chenjinhao.top, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 42c293b1-9541-40c5-8be1-a62191bb778b, udp: true}
+- {name: vmess - TTEESSTT, server: xrayr.chenjinhao.top, port: 2222, type: vmess, uuid: 42c293b1-9541-40c5-8be1-a62191bb778b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /123, headers: {Host: 123*.com}}, udp: true}
