@@ -12,8 +12,10 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
@@ -23,10 +25,12 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港-A-IEPL - 简单云 7
-  - 🇭🇰 香港-B-IEPL - 简单云 7
-  - 🇺🇸 美国-A-IEPL - 简单云 7
-  - 🇺🇸 美国-B-IEPL - 简单云 7
+  - 🇭🇰 香港-A-IEPL - 简单云 6
+  - 🇭🇰 香港-B-IEPL - 简单云 6
+  - 🇸🇬 新加坡-A-IEPL - 简单云 6
+  - 🇸🇬 新加坡-B-IEPL - 简单云 6
+  - 🇺🇸 美国-A-IEPL - 简单云 6
+  - 🇺🇸 美国-B-IEPL - 简单云 6
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -54,8 +58,10 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -70,27 +76,40 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港-A-IEPL - 简单云 7
-  - 🇭🇰 香港-B-IEPL - 简单云 7
+  - 🇭🇰 香港-A-IEPL - 简单云 6
+  - 🇭🇰 香港-B-IEPL - 简单云 6
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡-A-IEPL - 简单云 6
+  - 🇸🇬 新加坡-B-IEPL - 简单云 6
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国-A-IEPL - 简单云 7
-  - 🇺🇸 美国-B-IEPL - 简单云 7
+  proxies: &id004
+  - 🇺🇸 美国-A-IEPL - 简单云 6
+  - 🇺🇸 美国-B-IEPL - 简单云 6
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id004
 proxies:
-- {name: 🇭🇰 香港-A-IEPL - 简单云 7, server: zff1.ezxxlinnxonline.top, port: 43563, type: ss, cipher: chacha20-ietf-poly1305, password: e787d60d-676d-4747-a18d-e2464c174250, udp: true}
-- {name: 🇭🇰 香港-B-IEPL - 简单云 7, server: zff2.ezxxlinnxonline.top, port: 22809, type: ss, cipher: chacha20-ietf-poly1305, password: e787d60d-676d-4747-a18d-e2464c174250, udp: true}
-- {name: 🇺🇸 美国-A-IEPL - 简单云 7, server: zff1.ezxxlinnxonline.top, port: 29319, type: ss, cipher: chacha20-ietf-poly1305, password: e787d60d-676d-4747-a18d-e2464c174250, udp: true}
-- {name: 🇺🇸 美国-B-IEPL - 简单云 7, server: zff2.ezxxlinnxonline.top, port: 41210, type: ss, cipher: chacha20-ietf-poly1305, password: e787d60d-676d-4747-a18d-e2464c174250, udp: true}
+- {name: 🇭🇰 香港-A-IEPL - 简单云 6, server: zff1.ezxxlinnxonline.top, port: 43563, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇭🇰 香港-B-IEPL - 简单云 6, server: zff2.ezxxlinnxonline.top, port: 22809, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇸🇬 新加坡-A-IEPL - 简单云 6, server: zff1.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇸🇬 新加坡-B-IEPL - 简单云 6, server: zff2.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇺🇸 美国-A-IEPL - 简单云 6, server: zff1.ezxxlinnxonline.top, port: 29319, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇺🇸 美国-B-IEPL - 简单云 6, server: zff2.ezxxlinnxonline.top, port: 41210, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

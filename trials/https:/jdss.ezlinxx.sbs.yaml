@@ -21,14 +21,19 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - SG
-  - US
+  proxies: &id001
+  - 🇭🇰 香港-A-IEPL - 简单云 8
+  - 🇭🇰 香港-B-IEPL - 简单云 8
+  - 🇸🇬 新加坡-A-IEPL - 简单云 8
+  - 🇸🇬 新加坡-B-IEPL - 简单云 8
+  - 🇺🇸 美国-A-IEPL - 简单云 8
+  - 🇺🇸 美国-B-IEPL - 简单云 8
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -67,56 +72,44 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港-A-IEPL - 简单云 8
+  - 🇭🇰 香港-B-IEPL - 简单云 8
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - SG
+  proxies: &id003
+  - 🇸🇬 新加坡-A-IEPL - 简单云 8
+  - 🇸🇬 新加坡-B-IEPL - 简单云 8
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id004
-  - US
+  proxies: &id004
+  - 🇺🇸 美国-A-IEPL - 简单云 8
+  - 🇺🇸 美国-B-IEPL - 简单云 8
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id004
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/HK.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/SG.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/US.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id004
+proxies:
+- {name: 🇭🇰 香港-A-IEPL - 简单云 8, server: zff1.ezxxlinnxonline.top, port: 43563, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
+- {name: 🇭🇰 香港-B-IEPL - 简单云 8, server: zff2.ezxxlinnxonline.top, port: 22809, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
+- {name: 🇸🇬 新加坡-A-IEPL - 简单云 8, server: zff1.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
+- {name: 🇸🇬 新加坡-B-IEPL - 简单云 8, server: zff2.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
+- {name: 🇺🇸 美国-A-IEPL - 简单云 8, server: zff1.ezxxlinnxonline.top, port: 29319, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
+- {name: 🇺🇸 美国-B-IEPL - 简单云 8, server: zff2.ezxxlinnxonline.top, port: 41210, type: ss, cipher: chacha20-ietf-poly1305, password: 0ee38b53-6942-4715-ad29-e6f1ef8efb70, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

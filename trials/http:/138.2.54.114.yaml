@@ -12,23 +12,22 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
-  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - SG
-  - US
+  proxies: &id001
+  - 🇭🇰 中国香港-1-6 - 云面馆
+  - 🇹🇼 台湾-1-6 - 云面馆
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -46,17 +45,17 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇸🇬 ‍新加坡
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -67,56 +66,27 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
-- name: 🇸🇬 ‍新加坡
+  proxies: &id002
+  - 🇭🇰 中国香港-1-6 - 云面馆
+- name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - SG
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id004
-  - US
+  proxies: &id003
+  - 🇹🇼 台湾-1-6 - 云面馆
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id004
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/HK.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/SG.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/US.yaml
-    interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id003
+proxies:
+- {name: 🇹🇼 台湾-1-6 - 云面馆, server: 2600:1900:4031:a9a:0:0:0:0, port: 80, type: vmess, uuid: 6030bacc-6afc-410a-897b-624743f7ffb5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
+- {name: 🇭🇰 中国香港-1-6 - 云面馆, server: 2600:1900:41a0:4ad:0:0:0:0, port: 80, type: vmess, uuid: 6030bacc-6afc-410a-897b-624743f7ffb5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.baidu.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

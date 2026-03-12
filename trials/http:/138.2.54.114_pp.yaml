@@ -12,9 +12,9 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -22,7 +22,7 @@ proxy-groups:
   tolerance: 100
   use: &id001
   - HK
-  - US
+  - TW
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -43,15 +43,17 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -65,32 +67,32 @@ proxy-groups:
   tolerance: 100
   use: &id002
   - HK
-- name: 🇺🇸 ‍美国
+- name: 🇹🇼 ‍台湾
   type: url-test
-  tolerance: 300
+  tolerance: 100
   use: &id003
-  - US
+  - TW
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   use: *id003
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/http://jdss.ezlinxx.sbs/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/http://138.2.54.114/HK.yaml
     interval: 180
-    path: trials_providers/http://jdss.ezlinxx.sbs/HK.yaml
+    path: trials_providers/http://138.2.54.114/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  US:
+  TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/http://jdss.ezlinxx.sbs/US.yaml
+    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/http://138.2.54.114/TW.yaml
     interval: 180
-    path: trials_providers/http://jdss.ezlinxx.sbs/US.yaml
+    path: trials_providers/http://138.2.54.114/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

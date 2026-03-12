@@ -92,27 +92,27 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jdss.ezlinxx.sbs/HK.yaml
     interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/HK.yaml
+    path: trials_providers/https://jdss.ezlinxx.sbs/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jdss.ezlinxx.sbs/SG.yaml
     interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/SG.yaml
+    path: trials_providers/https://jdss.ezlinxx.sbs/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jd.ezlinxx.sbs/US.yaml
+    url: https://raw.kgithub.com/qjlxg/fg/main/trials_providers/https://jdss.ezlinxx.sbs/US.yaml
     interval: 180
-    path: trials_providers/https://jd.ezlinxx.sbs/US.yaml
+    path: trials_providers/https://jdss.ezlinxx.sbs/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

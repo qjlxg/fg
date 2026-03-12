@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡-A-IEPL - 简单云 6, server: zff1.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
+- {name: 🇸🇬 新加坡-B-IEPL - 简单云 6, server: zff2.ezxxlinnxonline.top, port: 11817, type: ss, cipher: chacha20-ietf-poly1305, password: 42e560c0-b752-4ea1-82f7-c6dc6ed07aab, udp: true}
