@@ -1,4 +1,4 @@
-# fork zsokami/sub
+# fork zsokami/sub  https://github.com/rxsweet/codes
 ```
 README.md
 V10.7 (2023-04-25)
@@ -90,3 +90,4 @@ sub.main
 ├── get_trial_update_url.py
 └── README.md	#文档结构
 ```
+
