@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 - hk糖水铺 2, server: 38.47.121.52, port: 443, type: vmess, uuid: 9a61d47c-97d9-4401-9f78-26dd1982c323, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

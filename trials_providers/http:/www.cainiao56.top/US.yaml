@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国中转✈️01 - 菜鸟机场 3, server: cu1.xcuuu.cn, port: 26096, type: ss, cipher: aes-128-gcm, password: b75a5e36-db4e-4584-ae40-d88e343d319f, udp: true}
+- {name: 🇺🇸 美国中转✈️02 - 菜鸟机场 3, server: cu1.xcuuu.cn, port: 19161, type: ss, cipher: aes-128-gcm, password: b75a5e36-db4e-4584-ae40-d88e343d319f, udp: true}
+- {name: 🇺🇸 美国中转✈️03 - 菜鸟机场 3, server: gzct.xcuuu.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: b75a5e36-db4e-4584-ae40-d88e343d319f, udp: true}

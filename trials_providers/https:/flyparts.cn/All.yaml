@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国直连ss - V2Board 19, server: us1-ss.flyparts.cn, port: 10020, type: ss, cipher: chacha20-ietf-poly1305, password: 18beefe7-ab42-4e39-a322-3c1afbeea860, udp: true}
+- {name: 🇺🇸 美国直连V2 - V2Board 19, server: us1-ss.flyparts.cn, port: 10022, type: vmess, uuid: 18beefe7-ab42-4e39-a322-3c1afbeea860, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us1-ss.flyparts.cn}}, udp: true}

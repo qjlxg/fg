@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡 - XXOOBoard, server: 4.145.115.108, port: 30000, type: ss, cipher: aes-128-gcm, password: 15e5680d-57a9-4fdc-b593-182aeb53b110, udp: true}
+- {name: 🇺🇸 dig纽约 - XXOOBoard, server: 104.131.116.80, port: 3434, type: ss, cipher: aes-128-gcm, password: 15e5680d-57a9-4fdc-b593-182aeb53b110, udp: true}

@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 永久跳转页：https://搞快点.com - GKD, server: www.gkd011.top, port: 10086, type: ss, cipher: chacha20-ietf, password: N2QjwOw48nuLcPrk, udp: true}
