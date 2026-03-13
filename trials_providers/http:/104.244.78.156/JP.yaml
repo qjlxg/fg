@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 - 友善, server: hkt01.1.frtghtcf.top, port: 36926, type: vmess, uuid: c164ec6b-56d8-3112-81fd-1b026906f2ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
