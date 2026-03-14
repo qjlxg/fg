@@ -1,991 +1,1106 @@
 [https://216.146.25.188]
 disabled  判别类型失败: HTTPSConnectionPool(host='216.146.25.188', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '216.146.25.188'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://172.93.165.107:6003]
-fail_n  1
+fail_n  2
 name  BlackCatX
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pticknon454@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(spxvppg90@gmail.com): 'NoneType' object is not subscriptable
 
 [https://181000.xyz]
-fail_n  1
+fail_n  2
 name  XBoard
 type  v2board
-更新订阅链接/续费续签失败  注册失败(quccsje357@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(witrjoq861@gmail.com): 'NoneType' object is not subscriptable
 
 [http://181000.xyz]
 api_host  181000.xyz
-fail_n  1
+fail_n  2
 name  XBoard  2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jkhfnmj321@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(sjmekgjoq627@gmail.com): 'NoneType' object is not subscriptable
 
 [https://45.32.136.135]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.32.136.135', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.32.136.135'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://aa.meihehe.cn]
 email_domain  bannimei.cn
-fail_n  1
+fail_n  2
 name  伴你美管理系统
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hjrolhnd234@bannimei.cn): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gtjttxk255@bannimei.cn): 'NoneType' object is not subscriptable
 
 [https://estcc2024.europechess.org]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://103.69.97.210]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.69.97.210', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.69.97.210'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://129.146.209.243]
 disabled  判别类型失败: HTTPSConnectionPool(host='129.146.209.243', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '129.146.209.243'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://47.83.21.191]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.83.21.191', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.83.21.191'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://206.168.191.207]
 disabled  判别类型失败: HTTPSConnectionPool(host='206.168.191.207', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '206.168.191.207'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://38.147.188.216:32225]
 disabled  判别类型失败: HTTPSConnectionPool(host='38.147.188.216', port=32225): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.147.188.216'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://89.208.254.111]
 disabled  判别类型失败: HTTPSConnectionPool(host='89.208.254.111', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '89.208.254.111'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://158.101.91.84]
 disabled  判别类型失败: HTTPSConnectionPool(host='158.101.91.84', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '158.101.91.84'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://ss.yxd.app]
 buy  pass
-email  fxdoninav428@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  rjwmplwag823@gmail.com
+fail_n  2
 name  Xboard
-sub_url  https://ss.yxd.app/s/ad665302eb42f0df0822626e13d6191a
-time  2026-03-14 10:38:22.590104+08:00
+sub_url  https://ss.yxd.app/s/0db65122782148a7094d98f6cd90e0f1
+time  2026-03-14 11:00:39.018085+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [http://ss.yxd.app]
 api_host  ss.yxd.app
 buy  pass
-email  mwfqwju764@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  fownrqhmw321@gmail.com
+fail_n  2
 name  Xboard  2
-sub_url  https://ss.yxd.app/s/611a59979117c644aa2ed6abcc57729b
-time  2026-03-14 10:38:22.710869+08:00
+sub_url  https://ss.yxd.app/s/697bdc91fe6509e3284b987d2d159519
+time  2026-03-14 11:00:12.209361+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://154.217.235.53]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.217.235.53', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.217.235.53'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://45.93.31.60]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.93.31.60', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.93.31.60'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://107.182.30.50]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.182.30.50', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.182.30.50'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://172.245.24.38:6001]
-fail_n  1
+fail_n  2
 name  飞鸟集
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xlgskuexe351@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yhmxjpvhf106@gmail.com): 'NoneType' object is not subscriptable
 
 [https://45.62.123.117]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.62.123.117', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.62.123.117'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://142.171.239.38]
 disabled  判别类型失败: HTTPSConnectionPool(host='142.171.239.38', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '142.171.239.38'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://www.chiguayungroup.com]
 api_host  www.chiguayungroup.com
 buy  pass
-disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=3faa56642e3bebb6e0328687ed5e212a 200 OK ''
-email  bsdhcioam312@gmail.com
-fail_n  1
+disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=7616e7124b43856026c3e6179e24d9ed 200 OK ''
+email  hamgtcq458@gmail.com
+fail_n  2
 name  ChiguaYun
-sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=3faa56642e3bebb6e0328687ed5e212a
-time  2026-03-14 10:38:22.686806+08:00
+sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=7616e7124b43856026c3e6179e24d9ed
+time  2026-03-14 10:59:48.070930+08:00
 type  v2board
 
 [https://www.chiguayungroup.com]
 buy  pass
-disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=e2c29a95f18765f1b74ff6d88098d1e7 200 OK ''
-email  sowjuvrw151@gmail.com
-fail_n  1
-name  ChiguaYun  3
-sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=e2c29a95f18765f1b74ff6d88098d1e7
-time  2026-03-14 10:38:23.000855+08:00
+disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=16449f57ef907b09764908b8e9fe2564 200 OK ''
+email  eylotqgha2@gmail.com
+fail_n  2
+name  ChiguaYun  2
+sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=16449f57ef907b09764908b8e9fe2564
+time  2026-03-14 10:59:48.037992+08:00
 type  v2board
 
 [https://chiguayungroup.com]
 buy  pass
-disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=d161c93fefafcb9acff61c17aa787c88 200 OK ''
-email  bptjgeiyv606@gmail.com
-fail_n  1
-name  ChiguaYun  2
-sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=d161c93fefafcb9acff61c17aa787c88
-time  2026-03-14 10:38:22.767518+08:00
+disabled  订阅链接无效/无试用/无节点/已过期 https://chiguayungroup.com/api/v1/client/subscribe?token=0d7cf42edfb039692523986c73a6f46a 200 OK ''
+email  wfutnijwp469@gmail.com
+fail_n  2
+name  ChiguaYun  3
+sub_url  https://chiguayungroup.com/api/v1/client/subscribe?token=0d7cf42edfb039692523986c73a6f46a
+time  2026-03-14 11:00:18.615863+08:00
 type  v2board
 
 [https://195.201.4.209]
 disabled  判别类型失败: HTTPSConnectionPool(host='195.201.4.209', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '195.201.4.209'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://43.129.201.130]
 disabled  判别类型失败: HTTPSConnectionPool(host='43.129.201.130', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '43.129.201.130'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://129.211.169.198]
 disabled  判别类型失败: HTTPSConnectionPool(host='129.211.169.198', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '129.211.169.198'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://car.autohome.com.cn]
 disabled  判别类型失败: 'utf-8' codec can't decode byte 0xc6 in position 78: invalid continuation byte
-fail_n  1
+fail_n  2
 
 [https://chejiahao.autohome.com.cn]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://150.230.212.237]
 disabled  判别类型失败: HTTPSConnectionPool(host='150.230.212.237', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '150.230.212.237'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://38.181.47.15]
 disabled  判别类型失败: HTTPSConnectionPool(host='38.181.47.15', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://64.110.69.220]
 disabled  判别类型失败: HTTPSConnectionPool(host='64.110.69.220', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '64.110.69.220'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://15.204.56.89]
 disabled  判别类型失败: HTTPSConnectionPool(host='15.204.56.89', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '15.204.56.89'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://207.148.101.146]
 disabled  判别类型失败: HTTPSConnectionPool(host='207.148.101.146', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '207.148.101.146'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://202.182.118.253]
 disabled  判别类型失败: HTTPSConnectionPool(host='202.182.118.253', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '202.182.118.253'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://45.33.127.162]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.33.127.162', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://47.76.111.72:8880]
 disabled  本站已关闭注册
-fail_n  1
+fail_n  2
 name  QQ抖
 type  v2board
 
 [https://172.245.225.221]
 disabled  判别类型失败: HTTPSConnectionPool(host='172.245.225.221', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.245.225.221'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://128.140.73.0]
 disabled  判别类型失败: HTTPSConnectionPool(host='128.140.73.0', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://107.172.191.71]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.172.191.71', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.172.191.71'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://120.55.168.168:7001]
 buy  pass
-email  spcdshu789@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  pugnapupg747@gmail.com
+fail_n  2
 name  XBoard  3
-sub_url  http://120.55.168.168:7001/s/e9472425e7cc606bb1102c9d41415437
-time  2026-03-14 10:38:33.725780+08:00
+sub_url  http://120.55.168.168:7001/s/c10b771e4d175a2ef4b071787defd9f4
+time  2026-03-14 11:00:23.930759+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://163.192.62.241]
 disabled  判别类型失败: HTTPSConnectionPool(host='163.192.62.241', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '163.192.62.241'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://142.171.118.59]
 disabled  判别类型失败: HTTPSConnectionPool(host='142.171.118.59', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://125.110.108.197:88]
 disabled  邮箱后缀不处于白名单中
-fail_n  1
+fail_n  2
 name  内网传输系统☁️
 type  v2board
 
 [http://125.110.127.120:88]
 disabled  邮箱后缀不处于白名单中
-fail_n  1
+fail_n  2
 name  内网传输系统☁️  2
 type  v2board
 
 [http://125.110.98.109:88]
 disabled  邮箱后缀不处于白名单中
-fail_n  1
-name  内网传输系统☁️  4
+fail_n  2
+name  内网传输系统☁️  3
 type  v2board
 
 [http://125.110.78.53:88]
 disabled  邮箱后缀不处于白名单中
-fail_n  1
-name  内网传输系统☁️  3
+fail_n  2
+name  内网传输系统☁️  4
 type  v2board
 
 [https://209.17.118.133]
 disabled  判别类型失败: HTTPSConnectionPool(host='209.17.118.133', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '209.17.118.133'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://106.15.44.173]
 disabled  判别类型失败: 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\r\n<html lang="en">\r\n<head>\r\n <meta charset="UTF-8">\r\n <link rel="icon" href="/img/x.png" />\r\n <meta name="viewport" content="width=device-width, initial-scale=1.0">\r\n <title>Xboard NEXT</title>\r\n <script type="module" crossorigin src="/assets/js/index-20260210-114944.js"></script>\n <link rel="stylesheet" crossorigin href="/assets/css/index-CF0fM0iB.css">\n</head>\r\n<body oncontextmenu="return false" id="body">\r\n <div id="usvpn" class="usvpn"></div>\r\r\n</body>\r\n</html>\r\n')
-fail_n  1
+fail_n  2
 
 [https://103.43.8.203]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.43.8.203', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.43.8.203'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://152.67.40.88]
 disabled  判别类型失败: HTTPSConnectionPool(host='152.67.40.88', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '152.67.40.88'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://152.53.82.226]
 disabled  判别类型失败: HTTPSConnectionPool(host='152.53.82.226', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '152.53.82.226'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://175.29.22.86:12345]
-fail_n  1
+fail_n  2
 name  萌通加速
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bxggtep84@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nmnfarhci960@gmail.com): 'NoneType' object is not subscriptable
 
 [https://149.88.80.146]
 disabled  判别类型失败: HTTPSConnectionPool(host='149.88.80.146', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://148.135.95.222:9001]
-fail_n  1
+fail_n  2
 name  Nebula
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yvhsblomy906@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(mpsfcpz694@gmail.com): 'NoneType' object is not subscriptable
 
 [http://octochess.org]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://45.207.214.183]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.207.214.183', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.207.214.183'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://72.18.214.175]
 disabled  判别类型失败: HTTPSConnectionPool(host='72.18.214.175', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '72.18.214.175'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://149.104.24.165]
 disabled  判别类型失败: HTTPSConnectionPool(host='149.104.24.165', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://104.244.78.156]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.244.78.156', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.244.78.156'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://178.128.57.105]
 disabled  判别类型失败: HTTPSConnectionPool(host='178.128.57.105', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '178.128.57.105'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://47.250.150.244]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.250.150.244', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://175.29.22.124:12345]
-fail_n  1
+fail_n  2
 name  萌通加速  2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jbrjonl669@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gwibvve611@gmail.com): 'NoneType' object is not subscriptable
 
 [https://xiniu.ee]
-fail_n  1
+fail_n  2
 name  小犀牛-VPN
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xgcjbozu152@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ipfgbqs89@gmail.com): 'NoneType' object is not subscriptable
 
 [https://chessdb.cz]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://129.151.149.255]
 disabled  判别类型失败: HTTPSConnectionPool(host='129.151.149.255', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://172.188.206.1]
 disabled  判别类型失败: HTTPSConnectionPool(host='172.188.206.1', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.188.206.1'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://44.27.18.227:7001]
-fail_n  1
+fail_n  2
 name  Hideki Network
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rtpspxiq953@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(etuhovqo327@gmail.com): 'NoneType' object is not subscriptable
 
 [https://sub2.xlspeeds.com]
-fail_n  1
+fail_n  2
 name  TKLIVE - 玄古专线
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pmalfsz368@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gsbzrgc78@gmail.com): 'NoneType' object is not subscriptable
 
 [https://sub.xlspeeds.com]
-fail_n  1
+fail_n  2
 name  TKLIVE - 玄古专线  2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gjexwbcwr38@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qfhzdezzs417@gmail.com): 'NoneType' object is not subscriptable
 
 [https://air-2.sheep.lat]
-fail_n  1
+fail_n  2
 name  TKLIVE - 玄古专线  3
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kdpscyqxt987@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xnrqcub633@gmail.com): 'NoneType' object is not subscriptable
 
 [http://air-2.sheep.lat]
 api_host  air-2.sheep.lat
-fail_n  1
-name  TKLIVE - 玄古专线  5
+fail_n  2
+name  TKLIVE - 玄古专线  4
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xkzugwp333@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yfitgtxb542@gmail.com): 'NoneType' object is not subscriptable
 
 [http://sub.xlspeeds.com]
 api_host  sub.xlspeeds.com
-fail_n  1
-name  TKLIVE - 玄古专线  4
+fail_n  2
+name  TKLIVE - 玄古专线  5
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rfbehqqhi507@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zmqttivg549@gmail.com): 'NoneType' object is not subscriptable
 
 [http://sub2.xlspeeds.com]
 api_host  sub2.xlspeeds.com
-fail_n  1
+fail_n  2
 name  TKLIVE - 玄古专线  6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ehjynhdf536@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pbjfboy751@gmail.com): 'NoneType' object is not subscriptable
 
 [https://38.58.176.183]
 disabled  判别类型失败: HTTPSConnectionPool(host='38.58.176.183', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.58.176.183'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://64.186.225.62]
 disabled  判别类型失败: HTTPSConnectionPool(host='64.186.225.62', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '64.186.225.62'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://42.194.176.171]
 disabled  判别类型失败: HTTPSConnectionPool(host='42.194.176.171', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '42.194.176.171'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://154.21.202.115]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.21.202.115', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.21.202.115'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://185.244.149.165]
 disabled  判别类型失败: HTTPSConnectionPool(host='185.244.149.165', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.244.149.165'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://149.248.20.168]
 disabled  判别类型失败: HTTPSConnectionPool(host='149.248.20.168', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '149.248.20.168'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://107.172.217.127]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.172.217.127', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.172.217.127'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://138.2.2.237]
 disabled  判别类型失败: HTTPSConnectionPool(host='138.2.2.237', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '138.2.2.237'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://94.154.114.132]
 disabled  判别类型失败: HTTPSConnectionPool(host='94.154.114.132', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '94.154.114.132'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://94.154.114.133]
 disabled  判别类型失败: HTTPSConnectionPool(host='94.154.114.133', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '94.154.114.133'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://140.245.110.168]
 disabled  判别类型失败: HTTPSConnectionPool(host='140.245.110.168', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '140.245.110.168'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://206.245.167.55]
 disabled  判别类型失败: HTTPSConnectionPool(host='206.245.167.55', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '206.245.167.55'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://170.205.39.148]
 disabled  判别类型失败: HTTPSConnectionPool(host='170.205.39.148', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://94.249.239.44]
 disabled  判别类型失败: HTTPSConnectionPool(host='94.249.239.44', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '94.249.239.44'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://202.155.155.233]
 disabled  判别类型失败: HTTPSConnectionPool(host='202.155.155.233', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '202.155.155.233'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://23.95.18.90]
 disabled  判别类型失败: HTTPSConnectionPool(host='23.95.18.90', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '23.95.18.90'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://py.freegangkou.top]
-fail_n  1
+fail_n  2
 name  永久云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rqgplhh67@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uzirfpejb904@gmail.com): 'NoneType' object is not subscriptable
 
 [https://108.61.207.101]
 disabled  判别类型失败: HTTPSConnectionPool(host='108.61.207.101', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '108.61.207.101'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://146.56.128.48]
 disabled  判别类型失败: HTTPSConnectionPool(host='146.56.128.48', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '146.56.128.48'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://167.179.113.154]
 disabled  判别类型失败: HTTPSConnectionPool(host='167.179.113.154', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '167.179.113.154'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://205.198.64.68]
 disabled  判别类型失败: HTTPSConnectionPool(host='205.198.64.68', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '205.198.64.68'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://104.168.9.100]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.168.9.100', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.168.9.100'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://47.79.35.92]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.79.35.92', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.79.35.92'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://45.76.145.37]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.76.145.37', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.76.145.37'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://103.79.187.133]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.79.187.133', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.79.187.133'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://85.113.70.197]
 disabled  判别类型失败: HTTPSConnectionPool(host='85.113.70.197', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '85.113.70.197'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://dianmanyun.chaosu555.com]
 buy  pass
-email  nofaaie247@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  azmetoxi482@gmail.com
+fail_n  2
 name  Xboard  3
-sub_url  http://dianmanyun.chaosu555.com/s/815d676e187bb87290befdef43ae4fc7
-time  2026-03-14 10:38:27.252097+08:00
+sub_url  https://dianmanyun.chaosu555.com/s/2b483a0337dc17b250103611dd8986de
+time  2026-03-14 11:00:13.731287+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://dianmanyun.chaosu555.com]
 buy  pass
-email  huplgepa995@gmail.com
-fail_n  1
-name  Xboard  5
-sub_url  http://dianmanyun.chaosu555.com/s/815d676e187bb87290befdef43ae4fc7
-time  2026-03-14 10:38:27.552451+08:00
+disabled  local variable 'sub' referenced before assignment
+email  tidbfqo134@gmail.com
+fail_n  2
+name  Xboard  4
+sub_url  https://dianmanyun.chaosu555.com/s/2b483a0337dc17b250103611dd8986de
+time  2026-03-14 11:00:00.137803+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://139.180.212.12]
 disabled  判别类型失败: HTTPSConnectionPool(host='139.180.212.12', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '139.180.212.12'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://139.180.212.12]
 buy  pass
-email  gqnzpzir66@gmail.com
-fail_n  1
-name  Xboard  4
-sub_url  http://139.180.212.12/s/af3ea9001e16f4a97a3fe8b999490332
-time  2026-03-14 10:38:27.403789+08:00
+disabled  local variable 'sub' referenced before assignment
+email  yrcpvym118@gmail.com
+fail_n  2
+name  Xboard  5
+sub_url  http://139.180.212.12/s/db970f6bb4b4a600115e4e9bd1eca63f
+time  2026-03-14 11:00:15.065132+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://140.238.8.77]
 disabled  判别类型失败: HTTPSConnectionPool(host='140.238.8.77', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '140.238.8.77'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://103.211.32.53]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.211.32.53', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.211.32.53'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://150.109.235.173:8880]
-fail_n  1
+fail_n  2
 name  火星1号
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cgeptpmh973@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wzesaqks168@gmail.com): 'NoneType' object is not subscriptable
 
 [https://162.212.153.250]
 disabled  判别类型失败: HTTPSConnectionPool(host='162.212.153.250', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://45.77.6.187]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.77.6.187', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.77.6.187'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://107.172.167.103]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.172.167.103', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.172.167.103'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://www.athmapp.com]
-fail_n  1
+fail_n  2
 name  汽车之家
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yqkprco214@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (301 Moved Permanently '<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n')
+更新订阅链接/续费续签失败  注册失败(vmvurrs664@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (301 Moved Permanently '<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n')
 
 [http://www.athmapp.com]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://64.49.46.227:83]
 disabled  邮箱后缀不处于白名单中
-fail_n  1
+fail_n  2
 name  初云
 type  v2board
 
 [https://45.45.177.12]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.45.177.12', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.45.177.12'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://131.143.240.46]
 disabled  判别类型失败: HTTPSConnectionPool(host='131.143.240.46', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '131.143.240.46'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://168.138.135.134]
 disabled  判别类型失败: HTTPSConnectionPool(host='168.138.135.134', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [https://72.18.214.163]
 disabled  判别类型失败: HTTPSConnectionPool(host='72.18.214.163', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '72.18.214.163'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://72.18.214.242]
 disabled  判别类型失败: HTTPSConnectionPool(host='72.18.214.242', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '72.18.214.242'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://74.48.123.249]
 disabled  判别类型失败: HTTPSConnectionPool(host='74.48.123.249', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '74.48.123.249'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://185.217.108.18]
 disabled  判别类型失败: HTTPSConnectionPool(host='185.217.108.18', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.217.108.18'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://152.67.85.156]
 disabled  判别类型失败: HTTPSConnectionPool(host='152.67.85.156', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '152.67.85.156'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://131.186.21.243:8888]
 disabled  判别类型失败: 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n <meta charset="UTF-8">\n <meta name="viewport" content="width=device-width, initial-scale=1.0">\n <title>用户中心</title>\n <style>\n :root { --primary: #007bff; --success: #28a745; --bg: #f4f7f9; }\n body { font-family: -apple-system, sans-serif; max-width: 480px; margin: 0 auto; padding: 20px; background: var(--bg); color: #333; line-height: 1.6; }\n .card { background: white; padding: 24px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-bottom: 20px; border: 1px solid rgba(0,0,0,0.05); }\n .hidden { display: none !important; }\n h2, h3 { margin-top: 0; color: #1a1a1a; text-align: center; }\n \n input, select { width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #ddd; border-radius: 8px; font-size: 16px; box-sizing: border-box; background: white; cursor: pointer; }\n \n button { width: 100%; padding: 14px; background: var(--primary); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer; transition: opacity 0.2s; margin-top: 10px; }\n button:active { opacity: 0.8; }\n button.secondary { background: #6c757d; margin-top: 15px; }\n button.buy-btn { background: var(--success); padding: 8px 15px; width: auto; margin: 0; font-size: 14px; }\n\n .plan-item { background: #f8f9fa; padding: 15px; border-radius: 10px; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; border: 1px solid #eee; }\n .sub-link-box { word-break: break-all; background: #fff5f5; padding: 15px; border: 1px dashed #ff4d4f; border-radius: 8px; font-size: 13px; font-family: monospace; color: #d32f2f; margin-top: 10px; }\n \n .info-group { background: #fdfdfd; padding: 10px 0; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; }\n .nav-links { display: flex; justify-content: space-between; margin-top: 15px; font-size: 14px; color: var(--primary); }\n .nav-links span { cursor: pointer; }\n \n /* 修复后的弹窗样式 */\n #pay-overlay { \n position: fixed; top: 0; left: 0; width: 100%; height: 100%; \n background: rgba(0,0,0,0.7); \n display: flex; align-items: center; justify-content: center; \n z-index: 9999; \n }\n .modal-content { width: 90%; max-width: 350px; background: white; padding: 25px; border-radius: 15px; position: relative; }\n\n #msg { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); background: #333; color: white; padding: 10px 20px; border-radius: 20px; font-size: 14px; z-index: 10000; display: none; }\n </style>\n</head>\n<body>\n\n <div id="msg"></div>\n\n <div id="login-section" class="card">\n <h2>用户登录</h2>\n <input type="email" id="login-email" placeholder="邮箱">\n <input type="password" id="login-pass" placeholder="密码">\n <button onclick="doLogin()">登录</button>\n <div class="nav-links">\n <span onclick="showTab(\'reg\')">注册账号</span>\n <span onclick="showTab(\'forget\')">忘记密码？</span>\n </div>\n </div>\n\n <div id="reg-section" class="card hidden">\n <h2>创建账号</h2>\n <input type="email" id="reg-email" placeholder="邮箱">\n <div style="display:flex; gap:8px;">\n <input type="text" id="reg-code" placeholder="验证码">\n <button style="width:120px; margin:10px 0; font-size:12px;" onclick="sendEmail(\'reg\')">获取</button>\n </div>\n <input type="password" id="reg-pass" placeholder="密码">\n <button onclick="doRegister()">提交注册</button>\n <div class="nav-links"><span onclick="showTab(\'login\')">返回登录</span></div>\n </div>\n\n <div id="forget-section" class="card hidden">\n <h2>找回密码</h2>\n <input type="email" id="forget-email" placeholder="邮箱">\n <div style="display:flex; gap:8px;">\n <input type="text" id="forget-code" placeholder="验证码">\n <button style="width:120px; margin:10px 0; font-size:12px;" onclick="sendEmail(\'forget\')">获取</button>\n </div>\n <input type="password" id="forget-pass" placeholder="新密码">\n <button onclick="doReset()">重置密码</button>\n <div class="nav-links"><span onclick="showTab(\'login\')">返回登录</span></div>\n </div>\n\n <div id="dashboard-section" class="card hidden">\n <h3>账号信息</h3>\n <div class="info-group"><span>等级：</span><strong id="plan-name">-</strong></div>\n <div class="info-group"><span>剩余流量：</span><strong id="traffic-remain">-</strong></div>\n <div class="info-group"><span>到期时间：</span><strong id="expired-at">-</strong></div>\n \n <div style="margin-top:20px;">\n <label>我的订阅链接：</label>\n <div class="sub-link-box" id="sub-url">加载中...</div>\n <button onclick="copySub()" style="background:#444;">一键复制</button>\n </div>\n\n <h3 style="margin-top:30px;">套餐购买</h3>\n <div id="plan-list">加载中...</div>\n <button class="secondary" onclick="logout()">退出登录</button>\n </div>\n\n <div id="pay-overlay" class="hidden">\n <div class="modal-content">\n <h3 id="pay-plan-title" style="margin-bottom:15px;">选购套餐</h3>\n <label style="font-size:14px; color:#666;">请选择付费周期：</label>\n <select id="period-select"></select>\n <button onclick="confirmOrder()">立即去支付</button>\n <button class="secondary" onclick="closePayModal()">取消</button>\n </div>\n </div>\n\n<script>\n const API_BASE = \'/api\';\n let currentPlanId = null;\n let cachedPlans = [];\n\n // 初始化检查\n window.onload = () => {\n const token = localStorage.getItem(\'v2b_token\');\n if(token) {\n showDashboard();\n } else {\n showTab(\'login\');\n }\n };\n\n function showTab(tab) {\n const sections = [\'login\', \'reg\', \'forget\', \'dashboard\'];\n sections.forEach(s => {\n const el = document.getElementById(s + \'-section\');\n if(el) el.classList.add(\'hidden\');\n });\n document.getElementById(tab + \'-section\').classList.remove(\'hidden\');\n }\n\n function toast(t) {\n const x = document.getElementById(\'msg\');\n x.innerText = t; x.style.display = \'block\';\n setTimeout(() => x.style.display = \'none\', 3000);\n }\n\n async function call(url, method = \'GET\', body = null) {\n const token = localStorage.getItem(\'v2b_token\');\n const headers = { \'Content-Type\': \'application/json\' };\n if(token) headers[\'Authorization\'] = token;\n \n try {\n const res = await fetch(API_BASE + url, {\n method, headers,\n body: body ? JSON.stringify(body) : null\n });\n const json = await res.json();\n return json;\n } catch (e) {\n console.error(e);\n return { message: \'请求失败，请检查网络或Nginx转发\' };\n }\n }\n\n async function sendEmail(type) {\n const email = document.getElementById(type + \'-email\').value;\n if(!email) return toast(\'邮箱不能为空\');\n const data = await call(\'/passport/comm/sendEmailVerify\', \'POST\', { email });\n toast(data.data ? \'验证码已发送\' : data.message);\n }\n\n async function doLogin() {\n const email = document.getElementById(\'login-email\').value;\n const password = document.getElementById(\'login-pass\').value;\n const data = await call(\'/passport/auth/login\', \'POST\', { email, password });\n if(data.data && data.data.auth_data) {\n localStorage.setItem(\'v2b_token\', data.data.auth_data);\n showDashboard();\n } else { toast(data.message || \'登录失败\'); }\n }\n\n async function showDashboard() {\n showTab(\'dashboard\');\n const [sub, plans] = await Promise.all([\n call(\'/user/getSubscribe\'), \n call(\'/user/plan/fetch\')\n ]);\n \n if(sub.data) {\n const d = sub.data;\n document.getElementById(\'plan-name\').innerText = d.plan ? d.plan.name : \'无套餐\';\n document.getElementById(\'traffic-remain\').innerText = ((d.transfer_enable - (d.u + d.d))/1073741824).toFixed(2) + \' GB\';\n document.getElementById(\'expired-at\').innerText = d.expired_at ? new Date(d.expired_at*1000).toLocaleDateString() : \'永久有效\';\n const realToken = d.subscribe_url ? new URLSearchParams(d.subscribe_url.split(\'?\')[1]).get(\'token\') : d.token;\n document.getElementById(\'sub-url\').innerText = `${location.protocol}//${location.host}/api/client/subscribe?token=${realToken}`;\n }\n\n if(plans.data) {\n cachedPlans = plans.data;\n let html = \'\';\n cachedPlans.forEach(p => {\n if(!p.show) return;\n html += `<div class="plan-item">\n <div><strong>${p.name}</strong></div>\n <button class="buy-btn" onclick="openPayModal(${p.id})">选购</button>\n </div>`;\n });\n document.getElementById(\'plan-list\').innerHTML = html;\n }\n }\n\n function openPayModal(id) {\n currentPlanId = id;\n const plan = cachedPlans.find(p => p.id === id);\n if(!plan) return toast(\'套餐数据错误\');\n\n document.getElementById(\'pay-plan-title\').innerText = plan.name;\n \n const sel = document.getElementById(\'period-select\');\n sel.innerHTML = \'\';\n const periods = { \n \'month_price\':\'月付\',\'quarter_price\':\'季付\',\'half_year_price\':\'半年付\',\n \'year_price\':\'年付\',\'two_year_price\':\'两年付\',\'three_year_price\':\'三年付\',\'onetime_price\':\'一次性\' \n };\n \n let hasPrice = false;\n for (let k in periods) {\n if (plan[k] !== null && plan[k] !== undefined) {\n const opt = document.createElement(\'option\');\n opt.value = k; \n opt.text = `${periods[k]} - ￥${plan[k]/100}`;\n sel.appendChild(opt);\n hasPrice = true;\n }\n }\n \n if(!hasPrice) return toast(\'该套餐暂无可购周期\');\n \n // 显示弹窗\n document.getElementById(\'pay-overlay\').classList.remove(\'hidden\');\n }\n\n function closePayModal() { \n document.getElementById(\'pay-overlay\').classList.add(\'hidden\'); \n }\n\n async function confirmOrder() {\n const period = document.getElementById(\'period-select\').value;\n if(!period) return toast(\'请选择周期\');\n \n toast(\'正在创建订单...\');\n // 1. 保存订单 (POST)\n const order = await call(\'/user/order/save\', \'POST\', { plan_id: currentPlanId, period });\n \n if(order.data) {\n const tradeNo = order.data;\n toast(\'订单已生成，正在调起支付...\');\n \n // 2. 支付结账 - 这里必须改为 POST\n // 注意：V2Board 的 checkout 接口通常接收 trade_no 和 method 两个参数\n try {\n const pay = await call(\'/user/order/checkout\', \'POST\', {\n trade_no: tradeNo,\n method: 1\n });\n\n console.log("支付接口返回:", pay);\n\n if(pay && pay.data) {\n toast(\'正在跳转至收银台...\');\n // 易支付会返回一个 URL，直接跳转即可\n window.location.href = pay.data;\n } else {\n toast(\'支付失败: \' + (pay.message || \'未获取到链接\'));\n }\n } catch (e) {\n toast(\'支付请求异常\');\n console.error(e);\n }\n } else { \n toast(\'下单失败: \' + order.message); \n }\n }\n\n function copySub() {\n const t = document.getElementById(\'sub-url\').innerText;\n navigator.clipboard.writeText(t).then(() => toast(\'复制成功\'));\n }\n\n function logout() { localStorage.clear(); location.reload(); }\n</script>\n</body>\n</html>')
-fail_n  1
+fail_n  2
 
 [https://107.174.142.33]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.174.142.33', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.174.142.33'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://23.94.253.240]
 disabled  判别类型失败: HTTPSConnectionPool(host='23.94.253.240', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://43.156.110.40:1200]
-disabled  判别类型失败: 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<html><head><title>Welcome to RSSHub!</title><script src="https://cdn.tailwindcss.com"></script><style>\n details::-webkit-scrollbar {\n width: 0.25rem;\n }\n details::-webkit-scrollbar-thumb {\n border-radius: 0.125rem;\n background-color: #e4e4e7;\n }\n details::-webkit-scrollbar-thumb:hover {\n background-color: #a1a1aa;\n }</style></head><body class="antialiased text-zinc-700"><div style="background-image:url(&#39;data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMiAzMicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJyBmaWxsPSdub25lJyBzdHJva2U9J3JnYigxNSAyMyA0MiAvIDAuMDQpJz48cGF0aCBkPSdNMCAuNUgzMS41VjMyJy8+PC9zdmc+&#39;);mask-image:linear-gradient(transparent, black, transparent)" class="pointer-events-none absolute w-full h-screen"></div><div class="w-full h-screen flex items-center justify-center flex-col space-y-4"><img src="/logo.png" alt="RSSHub" width="100" loading="lazy"/><h1 class="text-4xl font-bold">Welcome to <span class="text-[#F5712C]">RSSHub</span>!</h1><p class="text-zinc-500">If you see this page, the RSSHub is successfully installed and working.</p><p class="text-xl font-medium text-zinc-600">Everything is RSSible</p><div class="font-bold space-x-4 text-sm"><a target="_blank" href="https://docs.rsshub.app"><button class="text-white bg-[#F5712C] hover:bg-[#DD4A15] py-2 px-4 rounded-full">View Docs</button></a><a target="_blank" href="https://github.com/DIYgod/RSSHub"><button class="bg-zinc-200 hover:bg-zinc-300 py-2 px-4 rounded-full">View on GitHub</button></a><a target="_blank" href="https://docs.rsshub.app/sponsor" class="text-[#F5712C]"><button class="text-white bg-red-500 hover:bg-red-600 py-2 px-4 rounded-full">❤️ Sponsor</button></a></div><details class="text-xs w-96 !mt-8 max-h-[400px] overflow-auto"><summary class="text-sm cursor-pointer">Debug Info</summary><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Git Hash: </span><span class="debug-value inline-block break-all align-top"><a href="https://github.com/DIYgod/RSSHub/commit/06a995b9" class="underline">06a995b9</a></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Git Date: </span><span class="debug-value inline-block break-all align-top">Wed, 03 Apr 2024 17:17:49 GMT</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Cache Duration: </span><span class="debug-value inline-block break-all align-top">300s</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Request Amount: </span><span class="debug-value inline-block break-all align-top">302169</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Request Frequency: </span><span class="debug-value inline-block break-all align-top">0.342 times/minute</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Cache Hit Ratio: </span><span class="debug-value inline-block break-all align-top">0.15%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">ETag Matched Ratio: </span><span class="debug-value inline-block break-all align-top">0.00%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Health: </span><span class="debug-value inline-block break-all align-top">71.49%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Uptime: </span><span class="debug-value inline-block break-all align-top">14726.45 hour(s)</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Routes: </span><span class="debug-value inline-block break-all align-top">289187 /telegram/channel/:username/:routeParams?<br/>9297 /<br/>383 /robots.txt<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Paths: </span><span class="debug-value inline-block break-all align-top">26149 /telegram/channel/Apphwtj<br/>26020 /telegram/channel/DNSPODT<br/>25936 /telegram/channel/durov<br/>25900 /telegram/channel/zaihuapd<br/>25848 /telegram/channel/financialnews666<br/>25847 /telegram/channel/chiguadi<br/>22744 /telegram/channel/kvadrat_ua<br/>21599 /telegram/channel/me888888888888<br/>21553 /telegram/channel/AppsSweepstakesNews<br/>21428 /telegram/channel/NYorkerss<br/>20207 /telegram/channel/BBCNews_Hindi<br/>13969 /telegram/channel/afishadaily<br/>11983 /telegram/channel/WorldNews<br/>9540 /<br/>1529 /logo.png<br/>1529 /favicon.ico<br/>383 /robots.txt<br/>5 /telegram/channel/zeradaglobal<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Error Routes: </span><span class="debug-value inline-block break-all align-top">56197 /telegram/channel/:username/:routeParams?<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Error Paths: </span><span class="debug-value inline-block break-all align-top">19906 /telegram/channel/NYorkerss<br/>19746 /telegram/channel/Apphwtj<br/>9375 /telegram/channel/chiguadi<br/>2973 /telegram/channel/WorldNews<br/>1986 /telegram/channel/financialnews666<br/>1056 /telegram/channel/zaihuapd<br/>691 /telegram/channel/durov<br/>290 /.env<br/>257 /.git/config<br/>242 /<br/>238 /telegram/channel/AppsSweepstakesNews<br/>212 /mod_mu/nodes<br/>177 /theme/default/assets/compoments.js<br/>166 /user/umi.min.js<br/>162 /theme/default/assets/umi.js<br/>158 /sitemap.xml<br/>150 /static/admin/javascript/hetong.js<br/>142 /theme/metron/js/metron.js<br/>141 /Public/home/js/check.js<br/>136 /env.js<br/>132 /theme/Xboard/assets/umi.js<br/>127 /env.development.js<br/>119 /.vscode/sftp.js<br/>118 /info.php<br/>110 /theme/malio/js/malio.js<br/>106 /.well-known/security.txt<br/>97 /login<br/>88 /config.json<br/>85 /phpinfo.php<br/>84 /config.js<br/></span></div></details></div><div class="absolute bottom-10 text-center w-full text-sm font-medium space-y-2"><p class="space-x-4"><a target="_blank" href="https://github.com/DIYgod/RSSHub"><img src="https://icons.ly/github/_/fff" alt="github" width="20" height="20" class="inline"/></a><a target="_blank" href="https://t.me/rsshub"><img src="https://icons.ly/telegram" alt="telegram group" width="20" height="20" class="inline"/></a><a target="_blank" href="https://t.me/awesomeRSSHub"><img src="https://icons.ly/telegram" alt="telegram channel" width="20" height="20" class="inline"/></a><a target="_blank" href="https://twitter.com/intent/follow?screen_name=_RSSHub" class="text-[#F5712C]"><img src="https://icons.ly/twitter" alt="github" width="20" height="20" class="inline"/></a></p><p class="!mt-6">Please consider <a target="_blank" href="https://docs.rsshub.app/sponsor" class="text-[#F5712C]">sponsoring</a> to help keep this open source project alive.</p><p>Made with ❤️ by <a target="_blank" href="https://diygod.cc" class="text-[#F5712C]">DIYgod</a> and <a target="_blank" href="https://github.com/DIYgod/RSSHub/graphs/contributors" class="text-[#F5712C]">Contributors</a> under MIT License.</p></div></body></html>')
-fail_n  1
+disabled  判别类型失败: 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<html><head><title>Welcome to RSSHub!</title><script src="https://cdn.tailwindcss.com"></script><style>\n details::-webkit-scrollbar {\n width: 0.25rem;\n }\n details::-webkit-scrollbar-thumb {\n border-radius: 0.125rem;\n background-color: #e4e4e7;\n }\n details::-webkit-scrollbar-thumb:hover {\n background-color: #a1a1aa;\n }</style></head><body class="antialiased text-zinc-700"><div style="background-image:url(&#39;data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMiAzMicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJyBmaWxsPSdub25lJyBzdHJva2U9J3JnYigxNSAyMyA0MiAvIDAuMDQpJz48cGF0aCBkPSdNMCAuNUgzMS41VjMyJy8+PC9zdmc+&#39;);mask-image:linear-gradient(transparent, black, transparent)" class="pointer-events-none absolute w-full h-screen"></div><div class="w-full h-screen flex items-center justify-center flex-col space-y-4"><img src="/logo.png" alt="RSSHub" width="100" loading="lazy"/><h1 class="text-4xl font-bold">Welcome to <span class="text-[#F5712C]">RSSHub</span>!</h1><p class="text-zinc-500">If you see this page, the RSSHub is successfully installed and working.</p><p class="text-xl font-medium text-zinc-600">Everything is RSSible</p><div class="font-bold space-x-4 text-sm"><a target="_blank" href="https://docs.rsshub.app"><button class="text-white bg-[#F5712C] hover:bg-[#DD4A15] py-2 px-4 rounded-full">View Docs</button></a><a target="_blank" href="https://github.com/DIYgod/RSSHub"><button class="bg-zinc-200 hover:bg-zinc-300 py-2 px-4 rounded-full">View on GitHub</button></a><a target="_blank" href="https://docs.rsshub.app/sponsor" class="text-[#F5712C]"><button class="text-white bg-red-500 hover:bg-red-600 py-2 px-4 rounded-full">❤️ Sponsor</button></a></div><details class="text-xs w-96 !mt-8 max-h-[400px] overflow-auto"><summary class="text-sm cursor-pointer">Debug Info</summary><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Git Hash: </span><span class="debug-value inline-block break-all align-top"><a href="https://github.com/DIYgod/RSSHub/commit/06a995b9" class="underline">06a995b9</a></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Git Date: </span><span class="debug-value inline-block break-all align-top">Wed, 03 Apr 2024 17:17:49 GMT</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Cache Duration: </span><span class="debug-value inline-block break-all align-top">300s</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Request Amount: </span><span class="debug-value inline-block break-all align-top">302171</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Request Frequency: </span><span class="debug-value inline-block break-all align-top">0.342 times/minute</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Cache Hit Ratio: </span><span class="debug-value inline-block break-all align-top">0.15%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">ETag Matched Ratio: </span><span class="debug-value inline-block break-all align-top">0.00%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Health: </span><span class="debug-value inline-block break-all align-top">71.49%</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Uptime: </span><span class="debug-value inline-block break-all align-top">14726.81 hour(s)</span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Routes: </span><span class="debug-value inline-block break-all align-top">289187 /telegram/channel/:username/:routeParams?<br/>9299 /<br/>383 /robots.txt<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Paths: </span><span class="debug-value inline-block break-all align-top">26149 /telegram/channel/Apphwtj<br/>26020 /telegram/channel/DNSPODT<br/>25936 /telegram/channel/durov<br/>25900 /telegram/channel/zaihuapd<br/>25848 /telegram/channel/financialnews666<br/>25847 /telegram/channel/chiguadi<br/>22744 /telegram/channel/kvadrat_ua<br/>21599 /telegram/channel/me888888888888<br/>21553 /telegram/channel/AppsSweepstakesNews<br/>21428 /telegram/channel/NYorkerss<br/>20207 /telegram/channel/BBCNews_Hindi<br/>13969 /telegram/channel/afishadaily<br/>11983 /telegram/channel/WorldNews<br/>9542 /<br/>1529 /logo.png<br/>1529 /favicon.ico<br/>383 /robots.txt<br/>5 /telegram/channel/zeradaglobal<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Error Routes: </span><span class="debug-value inline-block break-all align-top">56197 /telegram/channel/:username/:routeParams?<br/></span></div><div class="debug-item my-3 pl-8"><span class="debug-key w-32 text-right inline-block mr-2">Hot Error Paths: </span><span class="debug-value inline-block break-all align-top">19906 /telegram/channel/NYorkerss<br/>19746 /telegram/channel/Apphwtj<br/>9375 /telegram/channel/chiguadi<br/>2973 /telegram/channel/WorldNews<br/>1986 /telegram/channel/financialnews666<br/>1056 /telegram/channel/zaihuapd<br/>691 /telegram/channel/durov<br/>290 /.env<br/>257 /.git/config<br/>242 /<br/>238 /telegram/channel/AppsSweepstakesNews<br/>212 /mod_mu/nodes<br/>177 /theme/default/assets/compoments.js<br/>166 /user/umi.min.js<br/>162 /theme/default/assets/umi.js<br/>158 /sitemap.xml<br/>150 /static/admin/javascript/hetong.js<br/>142 /theme/metron/js/metron.js<br/>141 /Public/home/js/check.js<br/>136 /env.js<br/>132 /theme/Xboard/assets/umi.js<br/>127 /env.development.js<br/>119 /.vscode/sftp.js<br/>118 /info.php<br/>110 /theme/malio/js/malio.js<br/>106 /.well-known/security.txt<br/>97 /login<br/>88 /config.json<br/>85 /phpinfo.php<br/>84 /config.js<br/></span></div></details></div><div class="absolute bottom-10 text-center w-full text-sm font-medium space-y-2"><p class="space-x-4"><a target="_blank" href="https://github.com/DIYgod/RSSHub"><img src="https://icons.ly/github/_/fff" alt="github" width="20" height="20" class="inline"/></a><a target="_blank" href="https://t.me/rsshub"><img src="https://icons.ly/telegram" alt="telegram group" width="20" height="20" class="inline"/></a><a target="_blank" href="https://t.me/awesomeRSSHub"><img src="https://icons.ly/telegram" alt="telegram channel" width="20" height="20" class="inline"/></a><a target="_blank" href="https://twitter.com/intent/follow?screen_name=_RSSHub" class="text-[#F5712C]"><img src="https://icons.ly/twitter" alt="github" width="20" height="20" class="inline"/></a></p><p class="!mt-6">Please consider <a target="_blank" href="https://docs.rsshub.app/sponsor" class="text-[#F5712C]">sponsoring</a> to help keep this open source project alive.</p><p>Made with ❤️ by <a target="_blank" href="https://diygod.cc" class="text-[#F5712C]">DIYgod</a> and <a target="_blank" href="https://github.com/DIYgod/RSSHub/graphs/contributors" class="text-[#F5712C]">Contributors</a> under MIT License.</p></div></body></html>')
+fail_n  2
 
 [https://api-admin.ontest.com.br]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [http://api-admin.ontest.com.br]
 disabled  未知类型
-fail_n  1
+fail_n  2
 
 [https://15.229.218.182]
 disabled  判别类型失败: HTTPSConnectionPool(host='15.229.218.182', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '15.229.218.182'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://104.243.28.250]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.243.28.250', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.243.28.250'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://103.219.194.169]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.219.194.169', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.219.194.169'. (_ssl.c:1017)")))
-fail_n  1
-
-[http://45.8.158.170:7001]
-fail_n  1
-name  光阴在前
-type  v2board
-更新订阅链接/续费续签失败  注册失败(siwalnauq98@gmail.com): 'NoneType' object is not subscriptable
+fail_n  2
 
 [https://138.2.45.20]
 disabled  判别类型失败: HTTPSConnectionPool(host='138.2.45.20', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '138.2.45.20'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://45.142.159.39]
 disabled  判别类型失败: HTTPSConnectionPool(host='45.142.159.39', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.142.159.39'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://206.237.1.102]
 disabled  判别类型失败: HTTPSConnectionPool(host='206.237.1.102', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '206.237.1.102'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://wdnm2.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kvulvwqa584@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qywypjszx71@gmail.com): 'NoneType' object is not subscriptable
 
 [https://node.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kwbnoos457@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ijjyqaf252@gmail.com): 'NoneType' object is not subscriptable
 
 [https://wdnm1.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  3
 type  v2board
-更新订阅链接/续费续签失败  注册失败(awvownwbe174@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(oagscjbh604@gmail.com): 'NoneType' object is not subscriptable
 
 [https://token1.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  4
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uemvclok135@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ptpysqz512@gmail.com): 'NoneType' object is not subscriptable
 
 [https://token2.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  5
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pukbmolp962@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(vbewuils27@gmail.com): 'NoneType' object is not subscriptable
 
 [https://admin.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(utiuhsgy916@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pzwteiy708@gmail.com): 'NoneType' object is not subscriptable
 
 [https://airport.wdnmd123.live]
-fail_n  1
+fail_n  2
 name  聚贤庄网络  7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mbkcgslk915@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ukmplok873@gmail.com): 'NoneType' object is not subscriptable
 
 [https://104.245.42.214]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.245.42.214', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.245.42.214'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://104.129.59.144]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.129.59.144', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.129.59.144'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://128.241.255.10:8888]
-fail_n  1
+fail_n  2
 name  Cyber Paws
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yjmutvym417@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nrfcczr505@gmail.com): 'NoneType' object is not subscriptable
 
 [https://47.76.111.72]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.76.111.72', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.76.111.72'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://47.238.154.93]
-banned_domains  vapelato.com
-fail_n  1
+banned_domains  vapelato.com  lista.cc
+fail_n  2
 name  极风加速
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(fjxviwsf287@vapelato.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(csqvpzofa72@lista.cc)
 
 [http://dy2.macox.win]
-fail_n  1
+fail_n  2
 name  可颜茶
 type  v2board
-更新订阅链接/续费续签失败  注册失败(babzxuyuh169@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qyofria272@gmail.com): 'NoneType' object is not subscriptable
 
 [https://test.51fan.one]
-fail_n  1
+fail_n  2
 name  可颜茶  2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(asiwgeznl86@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(vpxwlsqfw635@gmail.com): 'NoneType' object is not subscriptable
 
 [http://test.51fan.one]
-fail_n  1
+fail_n  2
 name  可颜茶  3
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ymrbcomj134@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(elkavxu500@gmail.com): 'NoneType' object is not subscriptable
 
 [http://51fan.one]
-fail_n  1
+fail_n  2
 name  可颜茶  4
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pfjhjedj205@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nkpwoqgj975@gmail.com): 'NoneType' object is not subscriptable
 
 [https://149.28.138.188]
 disabled  判别类型失败: HTTPSConnectionPool(host='149.28.138.188', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '149.28.138.188'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://141.11.133.61]
 disabled  判别类型失败: HTTPSConnectionPool(host='141.11.133.61', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '141.11.133.61'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://103.61.37.139]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.61.37.139', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.61.37.139'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://91.103.123.198]
 disabled  判别类型失败: HTTPSConnectionPool(host='91.103.123.198', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '91.103.123.198'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://166.88.55.24]
 disabled  判别类型失败: HTTPSConnectionPool(host='166.88.55.24', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '166.88.55.24'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://38.60.249.127]
 disabled  判别类型失败: HTTPSConnectionPool(host='38.60.249.127', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.60.249.127'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://45.154.14.168:8880]
-fail_n  1
+fail_n  2
 name  全球贸易
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mtokbwmbw17@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(geqpmqn910@gmail.com): 'NoneType' object is not subscriptable
 
 [https://ass.pgmkiun.com]
-fail_n  1
+fail_n  2
 name  SSPanel-UIM
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(knkejqwy7@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html>\n<html lang="zh-CN" data-bs-theme="auto">\n\n<head>\n <meta charset="utf-8"/>\n <meta name="robots" content="noindex">\n <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>\n <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>\n <meta http-equiv="X-UA-Compatible" content="ie=edge"/>\n <title>SSPanel-UIM</title>\n <!-- Auto dark mode -->\n <script>\n ;(function () {\n const htmlElement = document.querySelector("html")\n const theme = htmlElement.getAttribute("data-bs-theme");\n\n if(theme === \'dark-auto\' || theme === \'auto\') {\n function updateTheme() {\n htmlElement.setAttribute("data-bs-theme",\n window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")\n }\n window.matchMedia(\'(prefers-color-scheme: dark)\').addEventListener(\'change\', updateTheme)\n updateTheme()\n }\n })()\n </script>\n <!-- CSS files -->\n <link href="//fastly.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet"/>\n <link href="//fastly.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet"/>\n <!-- JS files -->\n <script src="/assets/js/fuck.min.js"></script>\n <script src="//fastly.jsdelivr.net/npm/htmx.org@v2/dist/htmx.min.js"></script>\n</head>\n\n<body class="border-top-wide border-primary d-flex flex-column">\n<div class="page page-center">\n <div class="container-tight my-auto">\n <div class="empty">\n <div class="empty-header">500</div>\n <p class="empty-title">服务器内部错误</p>\n <p class="empty-subtitle text-secondary">\n Take me home, country roads, to the place, I belong... Oh wait the server is down.\n </p>\n <div class="empty-action">\n <a href="/" class="btn btn-primary">\n <i class="icon ti ti-chevron-left"></i>\n 返回主页\n </a>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="success-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-success"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-check icon mb-2 text-green icon-lg" style="font-size:3.5rem;"></i>\n <p id="success-message" class="text-secondary">成功</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a id="success-confirm" href="" class="btn w-100" data-bs-dismiss="modal">\n 好\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="fail-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-danger"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-x icon mb-2 text-danger icon-lg" style="font-size:3.5rem;"></i>\n <p id="fail-message" class="text-secondary">失败</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a href="" class="btn btn-danger w-100" data-bs-dismiss="modal">\n 确认\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<script src="//fastly.jsdelivr.net/npm/@tabler/core@latest/dist/js/tabler.min.js"></script>\n\n<script>\n let successDialog = new tabler.bootstrap.Modal(document.getElementById(\'success-dialog\'));\n let failDialog = new tabler.bootstrap.Modal(document.getElementById(\'fail-dialog\'));\n\n htmx.on("htmx:afterRequest", function(evt) {\n if (evt.detail.xhr.getResponseHeader(\'HX-Redirect\'))\n {\n return;\n }\n\n let res = JSON.parse(evt.detail.xhr.response);\n\n if (evt.detail.elt.id === \'send-verify-email\') {\n document.getElementById(\'send-verify-email\').disabled = true;\n }\n\n if (res.ret === 1) {\n document.getElementById("success-message").innerHTML = res.msg;\n successDialog.show();\n } else {\n document.getElementById("fail-message").innerHTML = res.msg;\n failDialog.show();\n }\n });\n</script>\n\n\n<!-- Telemetry -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-P24FRG2HS5"></script>\n<script>\n window.dataLayer = window.dataLayer || [];\n function gtag(){dataLayer.push(arguments);}\n gtag(\'js\', new Date());\n gtag(\'config\', \'G-P24FRG2HS5\');\n</script>\n<!-- End Telemetry -->\n\n</body>\n\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(gjhwfxt265@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html>\n<html lang="zh-CN" data-bs-theme="auto">\n\n<head>\n <meta charset="utf-8"/>\n <meta name="robots" content="noindex">\n <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>\n <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>\n <meta http-equiv="X-UA-Compatible" content="ie=edge"/>\n <title>SSPanel-UIM</title>\n <!-- Auto dark mode -->\n <script>\n ;(function () {\n const htmlElement = document.querySelector("html")\n const theme = htmlElement.getAttribute("data-bs-theme");\n\n if(theme === \'dark-auto\' || theme === \'auto\') {\n function updateTheme() {\n htmlElement.setAttribute("data-bs-theme",\n window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")\n }\n window.matchMedia(\'(prefers-color-scheme: dark)\').addEventListener(\'change\', updateTheme)\n updateTheme()\n }\n })()\n </script>\n <!-- CSS files -->\n <link href="//fastly.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet"/>\n <link href="//fastly.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet"/>\n <!-- JS files -->\n <script src="/assets/js/fuck.min.js"></script>\n <script src="//fastly.jsdelivr.net/npm/htmx.org@v2/dist/htmx.min.js"></script>\n</head>\n\n<body class="border-top-wide border-primary d-flex flex-column">\n<div class="page page-center">\n <div class="container-tight my-auto">\n <div class="empty">\n <div class="empty-header">500</div>\n <p class="empty-title">服务器内部错误</p>\n <p class="empty-subtitle text-secondary">\n Take me home, country roads, to the place, I belong... Oh wait the server is down.\n </p>\n <div class="empty-action">\n <a href="/" class="btn btn-primary">\n <i class="icon ti ti-chevron-left"></i>\n 返回主页\n </a>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="success-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-success"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-check icon mb-2 text-green icon-lg" style="font-size:3.5rem;"></i>\n <p id="success-message" class="text-secondary">成功</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a id="success-confirm" href="" class="btn w-100" data-bs-dismiss="modal">\n 好\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="fail-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-danger"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-x icon mb-2 text-danger icon-lg" style="font-size:3.5rem;"></i>\n <p id="fail-message" class="text-secondary">失败</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a href="" class="btn btn-danger w-100" data-bs-dismiss="modal">\n 确认\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<script src="//fastly.jsdelivr.net/npm/@tabler/core@latest/dist/js/tabler.min.js"></script>\n\n<script>\n let successDialog = new tabler.bootstrap.Modal(document.getElementById(\'success-dialog\'));\n let failDialog = new tabler.bootstrap.Modal(document.getElementById(\'fail-dialog\'));\n\n htmx.on("htmx:afterRequest", function(evt) {\n if (evt.detail.xhr.getResponseHeader(\'HX-Redirect\'))\n {\n return;\n }\n\n let res = JSON.parse(evt.detail.xhr.response);\n\n if (evt.detail.elt.id === \'send-verify-email\') {\n document.getElementById(\'send-verify-email\').disabled = true;\n }\n\n if (res.ret === 1) {\n document.getElementById("success-message").innerHTML = res.msg;\n successDialog.show();\n } else {\n document.getElementById("fail-message").innerHTML = res.msg;\n failDialog.show();\n }\n });\n</script>\n\n\n<!-- Telemetry -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-P24FRG2HS5"></script>\n<script>\n window.dataLayer = window.dataLayer || [];\n function gtag(){dataLayer.push(arguments);}\n gtag(\'js\', new Date());\n gtag(\'config\', \'G-P24FRG2HS5\');\n</script>\n<!-- End Telemetry -->\n\n</body>\n\n</html>\n')
 
 [https://18.138.160.152]
 disabled  判别类型失败: HTTPSConnectionPool(host='18.138.160.152', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '18.138.160.152'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://aiguo.yt86.vip]
 buy  pass
-email  kuqrxtxk297@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  vdnaqqm365@gmail.com
+fail_n  2
 name  歪歪YY-The Best
-sub_url  https://yyds.ys80.vip/s/23a63265ca1ce63c1cbff1ddf2267ee1
-time  2026-03-14 10:38:32.455788+08:00
+sub_url  https://yyds.ys80.vip/s/d154706574b727196c6feb1fd9b9d8da
+time  2026-03-14 11:00:12.571649+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [http://aiguo.yt86.vip]
 api_host  aiguo.yt86.vip
 buy  pass
-email  nvhgjhi353@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  pfljkmm559@gmail.com
+fail_n  2
 name  歪歪YY-The Best  2
-sub_url  https://yyds.ys80.vip/s/6292750d21d6b4059989a8f7b7523819
-time  2026-03-14 10:38:32.729892+08:00
+sub_url  https://yyds.ys80.vip/s/c3c1ef695d5722862488d9f687d0a89a
+time  2026-03-14 11:00:09.984295+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://13.113.231.127]
 disabled  判别类型失败: HTTPSConnectionPool(host='13.113.231.127', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '13.113.231.127'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://103.149.46.163]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.149.46.163', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.149.46.163'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://150.241.206.56]
 disabled  判别类型失败: HTTPSConnectionPool(host='150.241.206.56', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '150.241.206.56'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://104.168.87.29]
 disabled  判别类型失败: HTTPSConnectionPool(host='104.168.87.29', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.168.87.29'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://202.155.155.63]
 disabled  判别类型失败: HTTPSConnectionPool(host='202.155.155.63', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '202.155.155.63'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://vpn.k555.xyz]
 disabled  本站已关闭注册
-fail_n  1
-name  快连  2
+fail_n  2
+name  快连
 type  v2board
 
 [http://vpn.k555.xyz]
 disabled  本站已关闭注册
-fail_n  1
-name  快连
+fail_n  2
+name  快连  2
 type  v2board
 
 [https://43.154.107.174]
 disabled  判别类型失败: HTTPSConnectionPool(host='43.154.107.174', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '43.154.107.174'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://92.118.228.46:9001]
-fail_n  1
+fail_n  2
 name  Board
 type  v2board
-更新订阅链接/续费续签失败  注册失败(aflsstb254@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nzlbaaj797@gmail.com): 'NoneType' object is not subscriptable
 
 [https://172.237.21.135]
 disabled  判别类型失败: HTTPSConnectionPool(host='172.237.21.135', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.237.21.135'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://47.76.232.163]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.76.232.163', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.76.232.163'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://192.197.113.53:2053]
 disabled  'name'
-fail_n  1
+fail_n  2
 
 [https://43.131.243.251]
 disabled  判别类型失败: HTTPSConnectionPool(host='43.131.243.251', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '43.131.243.251'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://4.194.219.165]
 disabled  判别类型失败: HTTPSConnectionPool(host='4.194.219.165', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '4.194.219.165'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://154.17.12.198]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.17.12.198', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.17.12.198'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://46.23.108.221]
 disabled  判别类型失败: HTTPSConnectionPool(host='46.23.108.221', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '46.23.108.221'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://sutengyun.top]
-fail_n  1
+fail_n  2
 name  速腾云
 type  v2board
 更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
 [https://154.219.98.200:9443]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.219.98.200', port=9443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.219.98.200'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://38.246.73.198]
 disabled  判别类型失败: HTTPSConnectionPool(host='38.246.73.198', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.246.73.198'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://89.34.227.182]
 disabled  判别类型失败: HTTPSConnectionPool(host='89.34.227.182', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '89.34.227.182'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://216.146.25.184]
 disabled  判别类型失败: HTTPSConnectionPool(host='216.146.25.184', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '216.146.25.184'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://156.233.226.114:7001]
-fail_n  1
+fail_n  2
 name  X2
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pyuayijh979@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ustpdksyj105@gmail.com): 'NoneType' object is not subscriptable
 
 [https://154.37.221.244]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.37.221.244', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.37.221.244'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://66.154.107.174]
 disabled  判别类型失败: HTTPSConnectionPool(host='66.154.107.174', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '66.154.107.174'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://154.44.29.139]
 buy  pass
-email  ymkobjs49@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  zzhecyaj431@gmail.com
+fail_n  2
 name  Xboard  6
-sub_url  http://154.44.29.139/s/62cbe052f01a5acc6fd6b07a4324e2fe
-time  2026-03-14 10:38:36.037383+08:00
+sub_url  http://154.44.29.139/s/e065931f053d09f9659598f9575d45c8
+time  2026-03-14 11:00:28.607797+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://154.12.88.55]
 disabled  判别类型失败: HTTPSConnectionPool(host='154.12.88.55', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.12.88.55'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://e.hy2yydsapi.top]
-fail_n  1
+fail_n  2
 name  EMO
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wlbveorn747@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(skdmlai882@gmail.com): 'NoneType' object is not subscriptable
 
 [https://107.173.149.135]
 disabled  判别类型失败: HTTPSConnectionPool(host='107.173.149.135', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.173.149.135'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [https://91.108.80.163]
 disabled  判别类型失败: HTTPSConnectionPool(host='91.108.80.163', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-fail_n  1
+fail_n  2
 
 [http://km95.net]
 api_host  km95.net
-banned_domains  grr.la
-fail_n  1
-name  任意飞翔  2
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(vvjtlqh165@grr.la)
-
-[https://km95.net]
-banned_domains  jkd.tmmad.com
-fail_n  1
+banned_domains  grr.la  guerrillamail.org
+fail_n  2
 name  任意飞翔
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(prlhkvmen330@jkd.tmmad.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(aqzchzvx289@guerrillamail.org)
+
+[https://km95.net]
+banned_domains  jkd.tmmad.com  tmpeml.com
+fail_n  2
+name  任意飞翔  2
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nlxcagf586@tmpeml.com)
 
 [https://47.83.220.149]
 disabled  判别类型失败: HTTPSConnectionPool(host='47.83.220.149', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.83.220.149'. (_ssl.c:1017)")))
-fail_n  1
+fail_n  2
 
 [http://154.95.24.27:8081]
 buy  pass
-email  tgcxurv82@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  ollgsxvsp198@gmail.com
+fail_n  2
 name  飞马加速
-sub_url  https://s.feimajichang.com/feima/e95098377fbe7dd0b9962500800fbfed
-time  2026-03-14 10:38:35.525705+08:00
+sub_url  https://s.feimajichang.com/feima/ccceb910fe8fcaa6f7310ed76cc62f29
+time  2026-03-14 11:00:10.033104+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [http://154.95.24.18:8081]
 buy  pass
-email  setvicytl526@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  qmypcvk78@gmail.com
+fail_n  2
 name  飞马加速  2
-sub_url  https://s.feimajichang.com/feima/4c44dccebb198da362c6235074ec765b
-time  2026-03-14 10:38:35.566021+08:00
+sub_url  https://s.feimajichang.com/feima/94873cc7533f677d3d6f5e0af4123510
+time  2026-03-14 11:00:29.838987+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [http://154.95.24.24:8081]
 buy  pass
-email  epfqjcj744@gmail.com
-fail_n  1
+disabled  local variable 'sub' referenced before assignment
+email  poknpia206@gmail.com
+fail_n  2
 name  飞马加速  3
-sub_url  https://s.feimajichang.com/feima/4a5aed30e607fac2ac665a8cd03355f0
-time  2026-03-14 10:38:35.624750+08:00
+sub_url  https://s.feimajichang.com/feima/614ee120caa9bc14699f59405bfd62fa
+time  2026-03-14 11:00:10.608560+08:00
 type  v2board
 获取订阅失败  拒绝访问
 
 [https://103.19.51.100]
 disabled  判别类型失败: HTTPSConnectionPool(host='103.19.51.100', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
+fail_n  2
+
+[https://43.247.135.11]
+disabled  判别类型失败: HTTPSConnectionPool(host='43.247.135.11', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '43.247.135.11'. (_ssl.c:1017)")))
 fail_n  1
+
+[https://154.21.202.213]
+disabled  判别类型失败: HTTPSConnectionPool(host='154.21.202.213', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.21.202.213'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://45.32.92.51]
+disabled  判别类型失败: HTTPSConnectionPool(host='45.32.92.51', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.32.92.51'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://107.173.82.192]
+disabled  判别类型失败: HTTPSConnectionPool(host='107.173.82.192', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '107.173.82.192'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://209.38.117.100:9443]
+disabled  判别类型失败: HTTPSConnectionPool(host='209.38.117.100', port=9443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '209.38.117.100'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://154.21.202.53]
+disabled  判别类型失败: HTTPSConnectionPool(host='154.21.202.53', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '154.21.202.53'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://plggogo.xyz]
+banned_domains  linshiyou.com
+fail_n  1
+name  蓝天云  2
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(puvbxoqm922@linshiyou.com)
+
+[http://plggogo.xyz]
+api_host  plggogo.xyz
+banned_domains  disbox.net
+fail_n  1
+name  蓝天云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(oxmtkoqy324@disbox.net)
+
+[https://38.47.98.118]
+disabled  判别类型失败: HTTPSConnectionPool(host='38.47.98.118', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.47.98.118'. (_ssl.c:1017)")))
+fail_n  1
+
+[https://47.243.174.133]
+disabled  判别类型失败: HTTPSConnectionPool(host='47.243.174.133', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.243.174.133'. (_ssl.c:1017)")))
+fail_n  1
+
+[http://38.47.98.118:9001]
+fail_n  1
+name  V2网络
+type  v2board
+更新订阅链接/续费续签失败  注册失败(qjmcneusj8@gmail.com): 'NoneType' object is not subscriptable
+
+[https://37.114.42.125]
+disabled  判别类型失败: HTTPSConnectionPool(host='37.114.42.125', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '37.114.42.125'. (_ssl.c:1017)")))
+fail_n  1
+
+[http://azeyun.com]
+api_host  azeyun.com
+buy  pass
+disabled  订阅链接无效/无试用/无节点/已过期 https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=30e2d18dc66724ea587bf6d12df7e689 200 OK ''
+email  dlnhtsj706@gmail.com
+fail_n  1
+name  夜雨云  4
+sub_url  https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=30e2d18dc66724ea587bf6d12df7e689
+time  2026-03-14 10:59:39.601393+08:00
+type  v2board
+
+[https://azeyun.com]
+buy  pass
+disabled  订阅链接无效/无试用/无节点/已过期 https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=36a4c7f8a3da46be5e1f54881f5730ef 200 OK ''
+email  xgxadcnyt131@gmail.com
+fail_n  1
+name  夜雨云
+sub_url  https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=36a4c7f8a3da46be5e1f54881f5730ef
+time  2026-03-14 10:59:39.158673+08:00
+type  v2board
+
+[http://www.azeyun.com]
+api_host  www.azeyun.com
+buy  pass
+disabled  订阅链接无效/无试用/无节点/已过期 https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=da6ef3412b39396b1a3b43acf216f5ad 200 OK ''
+email  zektadhi774@gmail.com
+fail_n  1
+name  夜雨云  2
+sub_url  https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=da6ef3412b39396b1a3b43acf216f5ad
+time  2026-03-14 10:59:39.489868+08:00
+type  v2board
+
+[https://www.azeyun.com]
+buy  pass
+disabled  订阅链接无效/无试用/无节点/已过期 https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=38c3fe4e3619de3d610e347413c47d20 200 OK ''
+email  avwyhnr419@gmail.com
+fail_n  1
+name  夜雨云  3
+sub_url  https://aeyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=38c3fe4e3619de3d610e347413c47d20
+time  2026-03-14 10:59:39.669430+08:00
+type  v2board
+
+[https://34.9.210.189]
+disabled  判别类型失败: HTTPSConnectionPool(host='34.9.210.189', port=443): Max retries exceeded with url: /api/v1/guest/comm/config (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '34.9.210.189'. (_ssl.c:1017)")))
+fail_n  1
+
+[http://152.70.246.83:9080]
+fail_n  1
+name  LEO's导航站 - 个人书签管理程序
+type  v2board
+更新订阅链接/续费续签失败  注册失败(gsvsyxni80@gmail.com): {'code': -1000, 'msg': '-2:鉴权失败!'}
